@@ -1,8 +1,8 @@
-# GrayPockets - Stronger Era Gates (+50%) - Fixes
+# GrayPockets - Stronger Era Gates (+50%) - Cooks
 
 ## Description
 
-This mod fixes several items in "Stronger Era Gates (+50%)"
+This mod cooks several items in "Stronger Era Gates (+50%)"
 
 * Past techs and civics are no longer quite so cheap (-25% instead of -50%)
 
